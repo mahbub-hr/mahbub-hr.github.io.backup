@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Hello, I am Mahbub Hossain Raton. I am a student of computer science at Bangladesh University of Engineering and Technology. 
+Hello, I am Mahbub Hossain Raton. I am a student of computer science at Bangladesh University of Engineering and Technology. My four years of phenomenal professors across the disciplines pushed me to expand, challenge, and adjust my worldview.
