@@ -14,7 +14,7 @@ role: Student of Computer Science and Engineering
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Bangladesh University of Engineering and Technology
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
