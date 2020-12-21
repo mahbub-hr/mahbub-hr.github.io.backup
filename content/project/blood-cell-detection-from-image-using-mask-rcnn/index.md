@@ -14,7 +14,7 @@ image:
   preview_only: false
 
 ---
-![](example.jpg "Different blood cells marked with bounding boxes")
+#![](example.jpg "Different blood cells marked with bounding boxes")
 
 <!--StartFragment-->
 
