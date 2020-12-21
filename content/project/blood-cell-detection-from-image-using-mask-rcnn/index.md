@@ -9,10 +9,10 @@ links:
     url: https://colab.research.google.com/drive/1-ENakRVTVx97rVX7TOxILdlzvQfxVpQF?usp=sharing
     icon_pack: ai
 image:
-  filename: featured
+  filename: example
   focal_point: Smart
   preview_only: false
-image_preview = "example.jpg"
+
 ---
 ![](example.jpg "Different blood cells marked with bounding boxes")
 
