@@ -12,6 +12,7 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+image_preview = "example.jpg"
 ---
 ![](example.jpg "Different blood cells marked with bounding boxes")
 
