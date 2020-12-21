@@ -11,10 +11,8 @@ links:
 image:
   filename: example
   focal_point: Smart
-  preview_only: true
 
 ---
-#![](example.jpg "Different blood cells marked with bounding boxes")
 
 <!--StartFragment-->
 
