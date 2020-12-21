@@ -3,7 +3,11 @@ title: Blood cell detection from image using Mask-RCNN
 date: 2020-12-21T13:15:46.151Z
 draft: false
 featured: false
-external_link: https://colab.research.google.com/drive/1-ENakRVTVx97rVX7TOxILdlzvQfxVpQF?usp=sharing
+external_link: mahbub.tk/blood-cell-detection-from-image-using-mask-rcnn
+links:
+  - name: code
+    url: https://colab.research.google.com/drive/1-ENakRVTVx97rVX7TOxILdlzvQfxVpQF?usp=sharing
+    icon_pack: ai
 image:
   filename: featured
   focal_point: Smart
