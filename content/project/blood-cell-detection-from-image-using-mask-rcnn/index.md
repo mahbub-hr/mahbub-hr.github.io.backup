@@ -9,7 +9,7 @@ links:
     url: https://colab.research.google.com/drive/1-ENakRVTVx97rVX7TOxILdlzvQfxVpQF?usp=sharing
     icon_pack: ai
 image:
-  filename: example
+  filename: example.jpg
   focal_point: Smart
 
 ---
