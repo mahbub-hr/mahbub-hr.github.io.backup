@@ -1,18 +1,21 @@
----
++++
 title: Blood cell detection from image using Mask-RCNN
 date: 2020-12-21T13:15:46.151Z
-draft: false
-featured: false
-external_link: ""
-links:
-  - name: code
-    url: https://colab.research.google.com/drive/1-ENakRVTVx97rVX7TOxILdlzvQfxVpQF?usp=sharing
-    icon_pack: ai
-image:
-  filename: example.jpg
-  focal_point: Smart
 
----
+# Optional external URL for project (replaces project detail page).
+external_link: ""
+#links:
+#  - name: code
+#    url: https://colab.research.google.com/drive/1-ENakRVTVx97rVX7TOxILdlzvQfxVpQF?usp=sharing
+#    icon_pack: ai
+#image:
+#  filename: "example.jpg"
+#  focal_point: Smart
+
+image_preview = "example.jpg"
+
+url_code = "https://colab.research.google.com/drive/1-ENakRVTVx97rVX7TOxILdlzvQfxVpQF?usp=sharing"
++++
 
 <!--StartFragment-->
 
