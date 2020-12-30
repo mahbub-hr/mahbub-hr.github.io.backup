@@ -12,7 +12,7 @@ external_link: ""
 #  filename: "example.jpg"
 #  focal_point: Smart
 
-image_preview = "example.jpg"
+image_preview = "featured.jpg"
 
 url_code = "https://colab.research.google.com/drive/1-ENakRVTVx97rVX7TOxILdlzvQfxVpQF?usp=sharing"
 +++
