@@ -15,7 +15,7 @@ external_link: ""
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 # Set `preview_only` to `true` to just use the image for thumbnails.
 
-placement: 1
+placement: 2
 caption: MIPS 4 Bit Processor Design in Logisim
 focal_point: "Center"
 preview_only: false
