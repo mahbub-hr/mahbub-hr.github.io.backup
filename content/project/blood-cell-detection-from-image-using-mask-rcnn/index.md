@@ -21,7 +21,7 @@ focal_point: "Center"
 preview_only: false
 alt_text: An optional description of the image for screen readers.
 
-url_code = "https://colab.research.google.com/drive/1-ENakRVTVx97rVX7TOxILdlzvQfxVpQF?usp=sharing"
+url_code: "https://colab.research.google.com/drive/1-ENakRVTVx97rVX7TOxILdlzvQfxVpQF?usp=sharing"
 ---
 
 <!--StartFragment-->
