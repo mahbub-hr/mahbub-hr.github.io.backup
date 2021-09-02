@@ -1,6 +1,6 @@
 ---
-title: MIPS 4 Bit Processor Design in Logisim
-date: "2021-08-21T13:15:46.151Z"
+title: Blood cell detection from image using Mask-RCNN
+date: "2020-12-21T13:15:46.151Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -16,12 +16,12 @@ external_link: ""
 # Set `preview_only` to `true` to just use the image for thumbnails.
 
 placement: 1
-caption: MIPS 4 Bit Processor Design in Logisim
+caption: Blood Cell Count using MASK-RCNN
 focal_point: "Center"
 preview_only: false
-alt_text: MIPS 4 Bit Processor Design in Logisim
+alt_text: Blood Cell Count using MASK-RCNN.
 
-url_code: https://github.com/mahbub-hr/mips-4-bit-processor
+url_code: "https://colab.research.google.com/drive/1-ENakRVTVx97rVX7TOxILdlzvQfxVpQF?usp=sharing"
 ---
 
 <!--StartFragment-->
