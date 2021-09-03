@@ -42,8 +42,8 @@ projects = []
 # Links (optional).
 url_pdf = ""
 url_preprint = ""
-url_code = "https://github.com/MahmudulAlam/Unified-Gesture-and-Fingertip-Detection"
-url_dataset = "http://www.hcii-lab.net/data/SCUTEgoGesture/index.htm"
+url_code = "https://github.com/mahbub-hr/ShardedBlockchain"
+url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
