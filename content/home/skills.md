@@ -23,8 +23,8 @@ subtitle = ""
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Java"
+  description = "90%"  
   
 [[feature]]
   icon = "camera-retro"

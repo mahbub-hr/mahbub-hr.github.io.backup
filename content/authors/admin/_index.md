@@ -11,8 +11,10 @@ bio: My research interests include cyber security, distributed computing and
   blockchain.
 interests:
   - Computer Security
+  - Network Security
+  - Machine Learning in Security
   - Blockchain
-  - Distributed Computing
+
 social:
   - icon: envelope
     icon_pack: fas
