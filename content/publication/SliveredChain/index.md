@@ -28,7 +28,7 @@ abstract = "The high storage requirement problem in blockchains is one of the fe
 abstract_short = "A Fault Tolerant Approach of Sharding Blockchain to Reduce Storage Requirements."
 
 # Featured image thumbnail (optional)
-image_preview = "after_distribution.jpg"
+image_preview = "featured.jpg"
 
 # Is this a selected publication? (true/false)
 selected = false
