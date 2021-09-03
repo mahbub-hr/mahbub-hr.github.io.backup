@@ -2,10 +2,10 @@
 title = "SliveredChain: Reducing Storage in Private Blockchain Systems Using Fault-Tolerant Overlay of Non-Overlapping Shards"
 
 # Date first published.
-date = "2019-09-30"
+date = "2021-05-30"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["MD Mahbub Hossain Raton", "Soumit Saha", "Touhidul Hasan", "Muhammad Abdullah Adnan"]
+authors = ["MD Mahbub Hossain Raton", "Soumit Saha", "Touhidul Islam", "Muhammad Abdullah Adnan"]
 
 # Publication type.
 # Legend:
